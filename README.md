@@ -5,8 +5,9 @@
   Indie Game Developer  
   Currently working with Unity & Web  
   Learning Multiplayer Systems & Backend Integration  
-  Ask me about Unity, C#, Web Development  
-  
+  Ask me about Unity, C#
+
+
 #  Technical Expertise  
 
 ### Languages
