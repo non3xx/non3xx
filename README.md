@@ -1,11 +1,12 @@
 <div align="center">
-# Hi There
+ Hi There
   
 ##  About Me
   Indie Game Developer  
   Currently working with Unity & Web  
   Learning Multiplayer Systems & Backend Integration  
   Ask me about Unity, C#, Web Development  
+  
 #  Technical Expertise  
 
 ### Languages
