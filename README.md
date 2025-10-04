@@ -9,9 +9,9 @@
 ---
 
 ##  Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Proficient-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Basic-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-Experienced-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
