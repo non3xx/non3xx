@@ -3,10 +3,8 @@
   
 ##  About Me
   Indie Game Developer  
-  Currently working with Unity & Web  
+  Currently working with Unity & Website 
   Learning Multiplayer Systems & Backend Integration  
-  Ask me about Unity, C#
-
 
 #  Technical Expertise  
 
@@ -25,15 +23,7 @@
 ![Unity Hub](https://img.shields.io/badge/Unity%20Hub-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-###  Connect & Collaborate
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/non3xx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiziozafranz@gmail.com)
-
-Available for: `Game Dev` • `Open Source` • `Collaboration` • `Discussion`
-
+Love sleeping zzz
 ---
-
-📍 Based in **Indonesia**  
 
 </div>
