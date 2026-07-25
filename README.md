@@ -1,62 +1,65 @@
 <div align="center">
 
-Unity Developer • Game Developer • Game Programmer
+# Nafizio Zafran Andeanza
 
-Building games with Unity while learning backend systems, multiplayer networking, and modern web development.
-
-</div>
+Unity Developer • Game Programmer
+Building gameplay systems, horror experiences, and interactive worlds with Unity.
 
 ---
 
+</div>
+
 ## About
 
-Currently Learning on:
+I'm a game developer who enjoys creating gameplay systems, performance optimization, and immersive player experiences.
 
-- Unity Game Development
+My primary focus is Unity development, from gameplay mechanics and AI behaviour to UI systems and mobile optimization. I'm currently expanding my knowledge in backend development and multiplayer networking to build complete online game experiences.
+
+---
+
+## Specializations
+
 - Gameplay Programming
+- Unity Engine
+- AI & NavMesh
 - Backend Integration
-- Multiplayer Systems
+- Multiplayer Networking
+- Performance Optimization
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Web
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Game Development
+### Engine & Tools
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### Tools
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
 
-## Current Focus
+## Currently Learning
 
-- Unity Gameplay Systems
-- Backend Development
 - Multiplayer Networking
-- Android Development
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=non3xx&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=non3xx&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+- Backend Development
+- Clean Architecture
+- Game Optimization
 
 ---
