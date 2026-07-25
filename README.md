@@ -1,7 +1,5 @@
 <div align="center">
 
-# Nafizio Zafran Andeanza
-
 Unity Developer • Game Programmer
 Building gameplay systems, horror experiences, and interactive worlds with Unity.
 
