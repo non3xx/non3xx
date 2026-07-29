@@ -1,7 +1,6 @@
 <div align="center">
 
-Unity Developer • Game Programmer
-Building gameplay systems, horror experiences, and interactive worlds with Unity.
+Hi There
 
 ---
 
@@ -9,9 +8,7 @@ Building gameplay systems, horror experiences, and interactive worlds with Unity
 
 ## About
 
-I'm a game developer who enjoys creating gameplay systems, performance optimization, and immersive player experiences.
-
-My primary focus is Unity development, from gameplay mechanics and AI behaviour to UI systems and mobile optimization. I'm currently expanding my knowledge in backend development and multiplayer networking to build complete online game experiences.
+I'm a game developer who enjoys creating gameplay systems.
 
 ---
 
@@ -20,9 +17,7 @@ My primary focus is Unity development, from gameplay mechanics and AI behaviour 
 - Gameplay Programming
 - Unity Engine
 - AI & NavMesh
-- Backend Integration
-- Multiplayer Networking
-- Performance Optimization
+
 
 ---
 
@@ -53,11 +48,12 @@ My primary focus is Unity development, from gameplay mechanics and AI behaviour 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## Currently Learning
+## Want To Learn
 
 - Multiplayer Networking
 - Backend Development
 - Clean Architecture
 - Game Optimization
+- Networking
 
 ---
