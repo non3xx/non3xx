@@ -1,201 +1,128 @@
-<!-- ================= HEADER ================= -->
+ <div align="center">
 
-<div align="center">
+# ZIO
 
-# `>_` ZIO.DEV
+**GAMEPLAY ENGINEER · GAME DEVELOPER**
 
-### GAME DEVELOPER · GAMEPLAY PROGRAMMER · UNITY DEVELOPER
+Building interactive systems and experiences.
 
-*Turning ideas into interactive experiences.*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=yellow)
+[GitHub](https://github.com/YOUR_USERNAME) · [Portfolio](#) · [Contact](#)
 
 </div>
 
 ---
 
-## `01 / INTRODUCTION`
+## PROFILE
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I'm a game developer focused on gameplay engineering and interactive system development.
 
-### Hey, I'm Zio.
+My work revolves around building gameplay mechanics, developing AI behaviors, and creating interactive experiences using Unity. I also explore 3D workflows and full-stack development to better understand the complete development pipeline.
 
-A game developer focused on building gameplay systems, interactive mechanics, and immersive experiences.
-
-I work primarily with **Unity and C#**, exploring the intersection of programming, game design, and 3D development.
-
-Currently expanding my knowledge in multiplayer architecture, backend systems, and software engineering.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-```text
-STATUS: BUILDING
-ROLE: GAME DEV
-ENGINE: UNITY
-LANG: C#
-MODE: CREATIVE
-```
-
-</td>
-</tr>
-</table>
+| PROFILE | DETAILS |
+|:--|:--|
+| **Discipline** | Game Development |
+| **Primary Engine** | Unity |
+| **Primary Language** | C# |
+| **Core Focus** | Gameplay Systems & AI |
+| **Creative Tools** | Blender |
+| **Currently Exploring** | Multiplayer Architecture |
 
 ---
 
-## `02 / CORE EXPERTISE`
+## TECHNICAL EXPERTISE
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 GAMEPLAY SYSTEMS
-
-- Gameplay Mechanics
-- Player Controllers
-- Interaction Systems
-- Game Logic
-- Event-Driven Systems
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & GAME SYSTEMS
-
-- AI Behavior
-- Unity NavMesh
-- Pathfinding
-- State Machines
-- Game Optimization
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧊 3D DEVELOPMENT
-
-- 3D Modeling
-- Asset Integration
-- Environment Setup
-- Blender Workflow
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 WEB & BACKEND
-
-- Frontend Development
-- Database Integration
-- Backend Fundamentals
-- API Integration
-
-</td>
-</tr>
-</table>
+| DOMAIN | TECHNOLOGIES | FOCUS |
+|:--|:--|:--|
+| Game Development | Unity, C# | Gameplay systems, mechanics |
+| Game AI | NavMesh, AI | Navigation, behavior |
+| Programming | C++, C | Programming fundamentals |
+| 3D Development | Blender | Modeling, asset integration |
+| Frontend | HTML, CSS, JavaScript | Web interfaces |
+| Backend | PHP, Firebase | Server-side development |
+| Database | MySQL | Data management |
+| Workflow | Git, GitHub, Notion, Figma | Collaboration & planning |
 
 ---
 
-## `03 / TECHNOLOGY STACK`
+## SELECTED CAPABILITIES
 
-### PROGRAMMING
+### 01. Gameplay Engineering
+Designing and implementing interactive gameplay mechanics, player systems, and reusable game logic.
 
-| Language | Technology |
-|:---:|:---|
-| ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) | Primary Game Development |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Programming & Systems |
-| ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white) | Fundamental Programming |
+### 02. AI & Navigation
+Developing AI behaviors, navigation systems, and intelligent agent movement using Unity tools.
 
-### GAME ENGINE & CREATIVE TOOLS
+### 03. Game Development Pipeline
+Working across programming, 3D asset creation, integration, and iteration to bring game concepts to life.
 
-| Tool | Purpose |
-|:---|:---|
-| ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | Game Development |
-| ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | 3D Modeling |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | UI/UX Design |
-
-### WEB & INFRASTRUCTURE
-
-| Technology | Purpose |
-|:---|:---|
-| HTML5 / CSS3 / JavaScript | Frontend Development |
-| PHP | Backend Development |
-| Firebase | Backend Services |
-| MySQL | Database Management |
-| Git / GitHub | Version Control |
-| Notion | Documentation & Planning |
+### 04. Full-Stack Fundamentals
+Exploring web technologies, database integration, and backend architecture beyond game development.
 
 ---
 
-## `04 / CURRENT FOCUS`
+## CURRENT DEVELOPMENT
 
-<table>
-<tr>
-<th>AREA</th>
-<th>OBJECTIVE</th>
-<th>STATUS</th>
-</tr>
-<tr>
-<td>Multiplayer Networking</td>
-<td>Networked gameplay architecture</td>
-<td>🔄 Exploring</td>
-</tr>
-<tr>
-<td>Backend Development</td>
-<td>Server-side fundamentals</td>
-<td>🔄 Exploring</td>
-</tr>
-<tr>
-<td>Clean Architecture</td>
-<td>Maintainable code structure</td>
-<td>📚 Learning</td>
-</tr>
-<tr>
-<td>Game Optimization</td>
-<td>Performance & profiling</td>
-<td>📚 Learning</td>
-</tr>
-<tr>
-<td>Advanced AI</td>
-<td>Smarter gameplay behaviors</td>
-<td>📚 Learning</td>
-</tr>
-</table>
+| SUBJECT | DIRECTION |
+|:--|:--|
+| Multiplayer Networking | Real-time communication & synchronization |
+| Backend Architecture | APIs, server-side logic & databases |
+| Clean Architecture | Scalable and maintainable systems |
+| Game Optimization | Profiling & performance engineering |
+| Advanced AI | Behavior systems & navigation |
 
 ---
 
-## `05 / GITHUB ANALYTICS`
+## DEVELOPMENT TOOLKIT
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+**GAME ENGINE & CREATIVE**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=white)
 
-<br/>
+**PROGRAMMING**
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+![CSharp](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+
+**WEB & INFRASTRUCTURE**
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
+
+**WORKFLOW**
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white)
 
 </div>
 
 ---
 
-## `06 / PHILOSOPHY`
+## GITHUB OVERVIEW
 
 <div align="center">
 
-### "Build. Break. Debug. Repeat."
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
 
-*Every bug is a feature waiting to be misunderstood.*
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
 
-<br/>
+</div>
 
-**END OF TRANSMISSION_**
+---
+
+<div align="center">
+
+**ZIO / GAME DEVELOPMENT**
+
+*Engineering experiences, one system at a time.*
 
 </div>
