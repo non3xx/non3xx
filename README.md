@@ -1,160 +1,201 @@
+<!-- ================= HEADER ================= -->
 
+<div align="center">
 
-Hi, I'm Zio 👋
-Game Developer | Gameplay Programmer | Unity Developer
-I'm a game developer passionate about building interactive experiences, gameplay mechanics, and immersive 3D environments.
-I focus on gameplay programming, AI systems, and Unity development while continuously exploring new technologies.
+# `>_` ZIO.DEV
 
-👨‍💻 About Me
-	
-Role	Game Developer
-Primary Engine	Unity
-Main Language	C#
-Specialization	Gameplay Programming
-3D Software	Blender
-Currently Exploring	MultiplNah, berarti kita bikin versi yang lebih **structured dengan tabel, two-column layout, dan section yang rapi**. Vibes-nya GitHub developer portfolio, bukan sekadar tumpukan badge hasil panen.
+### GAME DEVELOPER · GAMEPLAY PROGRAMMER · UNITY DEVELOPER
 
-Ini versi yang gue rekomendasikan:
+*Turning ideas into interactive experiences.*
 
-# Hi, I'm Zio 👋
+<br/>
 
-### Game Developer | Gameplay Programmer | Unity Developer
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=yellow)
 
-I'm a game developer passionate about building interactive experiences, gameplay mechanics, and immersive 3D environments.
-
-I focus on gameplay programming, AI systems, and Unity development while continuously exploring new technologies.
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / INTRODUCTION`
 
-| <br>                    | <br>                              |
-| ----------------------- | --------------------------------- |
-| **Role**                | Game Developer                    |
-| **Primary Engine**      | Unity                             |
-| **Main Language**       | C#                                |
-| **Specialization**      | Gameplay Programming              |
-| **3D Software**         | Blender                           |
-| **Currently Exploring** | Multiplayer & Backend Development |
+<table>
+<tr>
+<td width="65%" valign="top">
 
----
+### Hey, I'm Zio.
 
-## 🎯 Specializations
+A game developer focused on building gameplay systems, interactive mechanics, and immersive experiences.
 
-| Area                 | Description                               |
-| -------------------- | ----------------------------------------- |
-| Gameplay Programming | Mechanics, interactions, and game systems |
-| Unity Development    | 2D & 3D game development                  |
-| AI & Navigation      | AI behavior, pathfinding, and NavMesh     |
-| Game Prototyping     | Turning ideas into playable experiences   |
-| 3D Development       | Modeling and asset integration            |
+I work primarily with **Unity and C#**, exploring the intersection of programming, game design, and 3D development.
 
----
+Currently expanding my knowledge in multiplayer architecture, backend systems, and software engineering.
 
-## 🛠️ Tech Stack
+</td>
+<td width="35%" align="center" valign="middle">
 
-### Programming Languages
+```text
+STATUS: BUILDING
+ROLE: GAME DEV
+ENGINE: UNITY
+LANG: C#
+MODE: CREATIVE
+```
 
-| Technology | Level of Interest |
-| ---------- | ----------------- |
-| <br>       | Primary           |
-| <br>       | Learning          |
-| <br>       | Learning          |
-
-### Web Development
-
-| Technology | <br>       |
-| ---------- | ---------- |
-| <br>       | HTML       |
-| <br>       | CSS        |
-| <br>       | JavaScript |
-| <br>       | PHP        |
-
-### Engines, Tools & Technologies
-
-| Category        | Technologies    |
-| --------------- | --------------- |
-| Game Engine     | Unity           |
-| 3D Modeling     | Blender         |
-| Database        | MySQL, Firebase |
-| Design          | Figma           |
-| Version Control | Git, GitHub     |
-| Productivity    | Notion          |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Currently Learning
+## `02 / CORE EXPERTISE`
 
-| Topic                  | Goal                                      |
-| ---------------------- | ----------------------------------------- |
-| Multiplayer Networking | Building multiplayer game experiences     |
-| Backend Development    | Understanding server-side architecture    |
-| Clean Architecture     | Writing maintainable code                 |
-| Game Optimization      | Improving performance and efficiency      |
-| Advanced Networking    | Understanding client-server communication |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 GAMEPLAY SYSTEMS
+
+- Gameplay Mechanics
+- Player Controllers
+- Interaction Systems
+- Game Logic
+- Event-Driven Systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & GAME SYSTEMS
+
+- AI Behavior
+- Unity NavMesh
+- Pathfinding
+- State Machines
+- Game Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧊 3D DEVELOPMENT
+
+- 3D Modeling
+- Asset Integration
+- Environment Setup
+- Blender Workflow
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 WEB & BACKEND
+
+- Frontend Development
+- Database Integration
+- Backend Fundamentals
+- API Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## `03 / TECHNOLOGY STACK`
 
-\<p align="center">\
-&#x20; \<img src="https\://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" />\
-&#x20; \<img src="https\://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160" />\
-\</p>
+### PROGRAMMING
+
+| Language | Technology |
+|:---:|:---|
+| ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) | Primary Game Development |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Programming & Systems |
+| ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white) | Fundamental Programming |
+
+### GAME ENGINE & CREATIVE TOOLS
+
+| Tool | Purpose |
+|:---|:---|
+| ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | Game Development |
+| ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | 3D Modeling |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | UI/UX Design |
+
+### WEB & INFRASTRUCTURE
+
+| Technology | Purpose |
+|:---|:---|
+| HTML5 / CSS3 / JavaScript | Frontend Development |
+| PHP | Backend Development |
+| Firebase | Backend Services |
+| MySQL | Database Management |
+| Git / GitHub | Version Control |
+| Notion | Documentation & Planning |
 
 ---
 
-\<p align="center">\
-&#x20; \<i>"Building worlds, one system at a time."\</i>\
-\</p>
+## `04 / CURRENT FOCUS`
 
-**Catatan:** Ganti `YOUR_USERNAME` dengan username GitHub lu.
+<table>
+<tr>
+<th>AREA</th>
+<th>OBJECTIVE</th>
+<th>STATUS</th>
+</tr>
+<tr>
+<td>Multiplayer Networking</td>
+<td>Networked gameplay architecture</td>
+<td>🔄 Exploring</td>
+</tr>
+<tr>
+<td>Backend Development</td>
+<td>Server-side fundamentals</td>
+<td>🔄 Exploring</td>
+</tr>
+<tr>
+<td>Clean Architecture</td>
+<td>Maintainable code structure</td>
+<td>📚 Learning</td>
+</tr>
+<tr>
+<td>Game Optimization</td>
+<td>Performance & profiling</td>
+<td>📚 Learning</td>
+</tr>
+<tr>
+<td>Advanced AI</td>
+<td>Smarter gameplay behaviors</td>
+<td>📚 Learning</td>
+</tr>
+</table>
 
-Menurut gue layout ini lebih bagus karena:
+---
 
-- Tabel bikin informasi gampang discan.
-- Badge tetap ada, tapi nggak mendominasi.
-- Kategori skill lebih jelas.
-- Cocok buat personal branding Game Developer.
+## `05 / GITHUB ANALYTICS`
 
-Satu hal: jangan pakai label `Primary` atau `Learning` kalau belum sesuai kemampuan aktual. README itu portfolio, bukan tempat menaikkan pangkat skill secara administratif.ayer & Backend Development
-🎯 Specializations
-Area	Description
-Gameplay Programming	Mechanics, interactions, and game systems
-Unity Development	2D & 3D game development
-AI & Navigation	AI behavior, pathfinding, and NavMesh
-Game Prototyping	Turning ideas into playable experiences
-3D Development	Modeling and asset integration
-🛠️ Tech Stack
-Programming Languages
-Technology	Level of Interest
-	Primary
-	Learning
-	Learning
-Web Development
-Technology	
-	HTML
-	CSS
-	JavaScript
-	PHP
-Engines, Tools & Technologies
-Category	Technologies
-Game Engine	Unity
-3D Modeling	Blender
-Database	MySQL, Firebase
-Design	Figma
-Version Control	Git, GitHub
-Productivity	Notion
-🚀 Currently Learning
-Topic	Goal
-Multiplayer Networking	Building multiplayer game experiences
-Backend Development	Understanding server-side architecture
-Clean Architecture	Writing maintainable code
-Game Optimization	Improving performance and efficiency
-Advanced Networking	Understanding client-server communication
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160" /> </p>
+<div align="center">
 
-<p align="center"> <i>"Building worlds, one system at a time."</i> </p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `06 / PHILOSOPHY`
+
+<div align="center">
+
+### "Build. Break. Debug. Repeat."
+
+*Every bug is a feature waiting to be misunderstood.*
+
+<br/>
+
+**END OF TRANSMISSION_**
+
+</div>
