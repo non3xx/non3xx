@@ -1,59 +1,160 @@
-<div align="center">
 
-Hi There
+
+Hi, I'm Zio 👋
+Game Developer | Gameplay Programmer | Unity Developer
+I'm a game developer passionate about building interactive experiences, gameplay mechanics, and immersive 3D environments.
+I focus on gameplay programming, AI systems, and Unity development while continuously exploring new technologies.
+
+👨‍💻 About Me
+	
+Role	Game Developer
+Primary Engine	Unity
+Main Language	C#
+Specialization	Gameplay Programming
+3D Software	Blender
+Currently Exploring	MultiplNah, berarti kita bikin versi yang lebih **structured dengan tabel, two-column layout, dan section yang rapi**. Vibes-nya GitHub developer portfolio, bukan sekadar tumpukan badge hasil panen.
+
+Ini versi yang gue rekomendasikan:
+
+# Hi, I'm Zio 👋
+
+### Game Developer | Gameplay Programmer | Unity Developer
+
+I'm a game developer passionate about building interactive experiences, gameplay mechanics, and immersive 3D environments.
+
+I focus on gameplay programming, AI systems, and Unity development while continuously exploring new technologies.
+
+---
+
+## 👨‍💻 About Me
+
+| <br>                    | <br>                              |
+| ----------------------- | --------------------------------- |
+| **Role**                | Game Developer                    |
+| **Primary Engine**      | Unity                             |
+| **Main Language**       | C#                                |
+| **Specialization**      | Gameplay Programming              |
+| **3D Software**         | Blender                           |
+| **Currently Exploring** | Multiplayer & Backend Development |
 
 ---
 
-</div>
+## 🎯 Specializations
 
-## About
-
-I'm a game developer who enjoys creating gameplay systems.
-
----
-
-## Specializations
-
-- Gameplay Programming
-- Unity Engine
-- AI & NavMesh
-
+| Area                 | Description                               |
+| -------------------- | ----------------------------------------- |
+| Gameplay Programming | Mechanics, interactions, and game systems |
+| Unity Development    | 2D & 3D game development                  |
+| AI & Navigation      | AI behavior, pathfinding, and NavMesh     |
+| Game Prototyping     | Turning ideas into playable experiences   |
+| 3D Development       | Modeling and asset integration            |
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
+### Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+| Technology | Level of Interest |
+| ---------- | ----------------- |
+| <br>       | Primary           |
+| <br>       | Learning          |
+| <br>       | Learning          |
 
-### Web
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+| Technology | <br>       |
+| ---------- | ---------- |
+| <br>       | HTML       |
+| <br>       | CSS        |
+| <br>       | JavaScript |
+| <br>       | PHP        |
 
-### Engine & Tools
+### Engines, Tools & Technologies
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-## Want To Learn
-
-- Multiplayer Networking
-- Backend Development
-- Clean Architecture
-- Game Optimization
-- Networking
+| Category        | Technologies    |
+| --------------- | --------------- |
+| Game Engine     | Unity           |
+| 3D Modeling     | Blender         |
+| Database        | MySQL, Firebase |
+| Design          | Figma           |
+| Version Control | Git, GitHub     |
+| Productivity    | Notion          |
 
 ---
+
+## 🚀 Currently Learning
+
+| Topic                  | Goal                                      |
+| ---------------------- | ----------------------------------------- |
+| Multiplayer Networking | Building multiplayer game experiences     |
+| Backend Development    | Understanding server-side architecture    |
+| Clean Architecture     | Writing maintainable code                 |
+| Game Optimization      | Improving performance and efficiency      |
+| Advanced Networking    | Understanding client-server communication |
+
+---
+
+## 📊 GitHub Statistics
+
+\<p align="center">\
+&#x20; \<img src="https\://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" />\
+&#x20; \<img src="https\://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160" />\
+\</p>
+
+---
+
+\<p align="center">\
+&#x20; \<i>"Building worlds, one system at a time."\</i>\
+\</p>
+
+**Catatan:** Ganti `YOUR_USERNAME` dengan username GitHub lu.
+
+Menurut gue layout ini lebih bagus karena:
+
+- Tabel bikin informasi gampang discan.
+- Badge tetap ada, tapi nggak mendominasi.
+- Kategori skill lebih jelas.
+- Cocok buat personal branding Game Developer.
+
+Satu hal: jangan pakai label `Primary` atau `Learning` kalau belum sesuai kemampuan aktual. README itu portfolio, bukan tempat menaikkan pangkat skill secara administratif.ayer & Backend Development
+🎯 Specializations
+Area	Description
+Gameplay Programming	Mechanics, interactions, and game systems
+Unity Development	2D & 3D game development
+AI & Navigation	AI behavior, pathfinding, and NavMesh
+Game Prototyping	Turning ideas into playable experiences
+3D Development	Modeling and asset integration
+🛠️ Tech Stack
+Programming Languages
+Technology	Level of Interest
+	Primary
+	Learning
+	Learning
+Web Development
+Technology	
+	HTML
+	CSS
+	JavaScript
+	PHP
+Engines, Tools & Technologies
+Category	Technologies
+Game Engine	Unity
+3D Modeling	Blender
+Database	MySQL, Firebase
+Design	Figma
+Version Control	Git, GitHub
+Productivity	Notion
+🚀 Currently Learning
+Topic	Goal
+Multiplayer Networking	Building multiplayer game experiences
+Backend Development	Understanding server-side architecture
+Clean Architecture	Writing maintainable code
+Game Optimization	Improving performance and efficiency
+Advanced Networking	Understanding client-server communication
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160" /> </p>
+
+<p align="center"> <i>"Building worlds, one system at a time."</i> </p>
+
+
